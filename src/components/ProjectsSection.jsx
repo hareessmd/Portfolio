@@ -17,7 +17,7 @@ const projects = [
     image: "/projects/Portfolio_home.png",
     tags: ["React.js", "TailwindCSS", "Vite"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/hareessmd/Portfolio.git",
   },
   // {
   //   id: 3,
